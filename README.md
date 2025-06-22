@@ -3,7 +3,7 @@
 - 💻 Currently Sophomore Computer Science Student
 - ✨ Pronouns: She/her
 - 🌱 Recently, I've been trying to create small projects!
-- 🍀 I’m interested in UX/UI Web Design, Web Development, and Game Development
+- 🍀 I’m interested in UX/UI Web Design, Web Development, Game Development, and Data Analytics
 
 <h4 align="left">Languages and Tools</h3>
 <p align="left"> I would classify my proficiency in these languages as ranging from beginner to intermediate. </p>
